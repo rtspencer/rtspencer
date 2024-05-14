@@ -9,7 +9,7 @@ I love code!
 * 🌍  I'm based in Illinois, U.S.A
 * ✉️  You can contact me at [ryanstandingon@gmail.com](mailto:ryanstandingon@gmail.com)
 * 🧠  I'm learning Swift, Python, and AI in sports
-* ⚡  One Piece is peak fiction
+* ⚡  Always $trive And Prosper
 
 ### Skills
 
