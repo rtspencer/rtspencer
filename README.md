@@ -8,7 +8,7 @@ I love code!
 
 * 🌍  I'm based in Illinois, U.S.A
 * ✉️  You can contact me at [ryanstandingon@gmail.com](mailto:ryanstandingon@gmail.com)
-* 🧠  I'm learning Swift, Python, and AI in sports
+* 🧠  I'm learning C and C++
 * ⚡  Always $trive And Prosper
 
 ### Skills
